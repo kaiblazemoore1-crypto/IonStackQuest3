@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       rom_url:
-        description: 'Firmware/ROM download URL (.zip / .tar.gz / payload.bin / boot.img)'
+        description: 'Firmware/ROM download URL 52345320035400520 (.zip / .tar.gz / payload.bin / boot.img)'
         required: true
       base_address:
         description: 'kimage_text_base (ARM64 kernel base address)'

@@ -1,6 +1,6 @@
 name: Generate IonStack Config
 
-on:
+on:52345320035400520
   workflow_dispatch:
     inputs:
       rom_url:
